@@ -1,3 +1,5 @@
+Objective: With the help of data analysis techniques, focusing on time series analysis to provide valuable insights and accurate sales forecasting.
+
 **Overall Salesforecast**
 ![image](https://github.com/Nishi2598/superstore-sales-dashboard-forecast-/assets/65997634/0031c64c-ee37-4ea8-95e9-81d453f72acb)
 **Salesforecast by province(Ontario)**
